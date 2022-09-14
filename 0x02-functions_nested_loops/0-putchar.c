@@ -2,13 +2,15 @@
 
 /**
  * main-main block
- * Description:print -putchar in a new line
- * Return:this program returns zero
+ *
+ * Description:prints _putchar
+ *
+ * Return: 0 (Success)
  */
 
 int main(void)
 {
-	_putchar('_');
+	_putchar('');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
